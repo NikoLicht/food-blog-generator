@@ -1,0 +1,787 @@
+{
+    "cooking_methods": {
+        "bake": {
+            "modes": [
+                "at 65 degrees celcius for 10 hours. We do that to really get the flavor developed",
+                "at 180 degrees celcius for 40 minutes or until golden and slightly charred",
+                "at 250 degrees celcius for 30 minutes. That really helps create a cripy exterior"
+                ],
+            "effects": [
+                "crispy",
+                "steaming hot",
+                "dreamy"
+                ]
+            },
+        "sear": {
+            "modes":[
+                "at the highest temperature your stove and pan will allow. Preferably using a heavy bottomed pan. I prefer smearing a bit of $fat$ on the pan beforehand.",
+                "at the second highest temperature on your stove, as this can burn easily. Now I am a big fan of searing in a bit of $fat$, but to each their own." 
+                ],
+            "effects": [
+                "salivatingly delicious",
+                "umami tasting",
+                "savory"
+                ]
+        },
+        "flambe": {
+            "modes":[
+                "in $alcohol$ to really get that flavor going. If you have problems getting the fire started, just add some cognac, that always works. Even in your glass.",
+                "at a relatively fast pace, ensuring that we dont create any burnt spots"
+                ],
+            "effects": [
+                "flamin'",
+                "aromatic"
+                ]
+        },
+        "boil": {
+            "modes":[
+                "at high heat for only a few minutes, for flavour, I like to boil in $liquid$, but you should use what you feel mathes best.",
+                "at high heat for anywhere between 2-5 hours, just make sure to stir and taste once every half hour. Now I'll add that boiling in $liquid$ really gives the best taste and tenderness. Just saying."
+            ],
+            "effects":[
+                "mellow",
+                "chocolatey",
+                "sweet",
+                "dark",
+                "butter tender"
+            ]
+        },
+        "char": {
+            "modes":[
+                "at max power on our stove. It really cannot get hot enough, as we don't want to cook the insides, but simply char the exterior",
+                "at medium-high power, as we want to not only char it, but also cook it a little. It is fine if it still retains some bite, but it should not be entirely raw."
+            ],
+            "effects":[
+                "smokey",
+                "crispy",
+                "slightly burnt"
+            ]
+        },
+        "steam": {
+            "modes":[
+                "at a low simmer, to avoid too much steam. Too much steam can lead to a sticky feel.",
+                "at a slow simmer, as we are not looking for a 'well done' result haha, we just want to remove some of the inital bite",
+                "at a rolling boil, to quickly cook the edge off. If you want to kick the dish up a notch, you could try to steam in $liquid$"
+            ],
+            "effects":[
+                "moist",
+                "juicy",
+                "slippery",
+                "steaming hot (lol) "
+            ]
+        },
+        "braise": {
+            "modes":["at medium-high heat. Now I prefer red wine, but we can really braise in anything (e.g $liquid$), just be creative!",
+                "in a mix of port and $liquid$, this also doubles as a fine cocktail during cooking... just saying"
+            ],
+            "effects":[
+                "savory",
+                "tender",
+                "aromatic"
+            ]
+        },
+        "stew": {
+            "modes":[
+                "at around 100-120 degrees. The exact temperature does not matter much, as you should really just let it simmer unil it is done and delicious",
+                "at a slow simmer for around 2 - 4 hours, dependent on the size. Calculate around half an hour pr. kg."
+            ],
+            "effects":[
+                "sweet",
+                "completely tender",
+                "golden"
+            ]
+        },
+        "sous-vide": {
+            "modes":[
+                "at 52 degrees for 1.5 hours. But you can go longer, just keep in mind that any seasoning will be enhanced further (watch out if you have salted before vacuuming)",
+                "at 72 degrees for around 6-12 hours. Make sure to check every few hours though. Now that is plenty of time for enjoying a nice cold glass of $liquid$."
+            ],
+            "effects":[
+                "tender",
+                "yummy",
+                "perfectly cooked",
+                "prestine"
+            ]
+        },
+        "fry": {
+            "modes":[
+                "in $fat$ as I prefer that flavor in this dish",
+                "in butter, as butter really gives the best flavor. However, we need to watch out not to burn the butter.",
+                "in olive oil. Just keep in mind that olive oil have a relatively low smoking point, meaning that we want to avoid high temperatures. So just go for a medium-high heat.",
+                "in peanut oil. Despite the origins of this oil (ground nuts), it does not flavor much and at the same time have a much higher smoking point than olive oil or butter."
+            ],
+            "effects":[
+                "crunchy",
+                "crispy",
+                "golden",
+                "jaw-droppingly crackly"
+            ]
+        },
+        "deep-fry": {
+            "modes":[
+                "at 160 degrees for around 12 minutes. If you feel extra risky today, you could attempt deep-frying in $fat$. I've tried that a few times and it's my naugty little treat.",
+                "natural $fat$ at 170 degrees for around 6 minutes.",
+                "at 180 degrees for around 4 minutes or until golden and crispy."
+            ],
+            "effects":[
+                "naughty",
+                "golden",
+                "crusty",
+                "crispy"
+            ]
+        },
+        "salt": {
+            "modes":[
+                "in a mixture of salt (obviously), $powder$ and sugar. The idea is that the salt draws out the moisture and enhances the flavour. Let it salt for around 3 days minimum",
+                "in pink himalayan salt mixed with $spice$ for around 5 days, covered in the fridge"
+            ],
+            "effects":[
+                "salty",
+                "sea fresh",
+                "long lasting",
+                "healty"
+            ]
+        },
+        "ferment": {
+            "modes":[
+                "in its own juices. These juices can be provoked by salting and then vigoursly stirring and squashing. Then put some weight on the top, making sure everything is fully submerged.",
+                "in a mixture of its own juices, water and brown sugar. Let it sit for around 5-7 days on the kitchen counter, tasting every day. If you let it sit too long, it will become vinegary, trust me..."
+            ],
+            "effects":[
+                "healthy tasting",
+                "sour",
+                "yeasty",
+                "crunchy",
+                "yummy",
+                "alcoholic"
+            ]
+        },
+        "pickle": {
+            "modes":["in a mixture of water, vinegar, salt, sugar and $spice$ (plus any spices and herbs you prefer). After being mixed, let sit in the fridge for a minimim of 2 days, but up to 6 days, before opening."],
+            "effects":[
+                "sour",
+                "crunchy",
+                "poppin"
+            ]
+            
+        },
+        "microwave": {
+            "modes":[
+                "at 900 Watt for 4-5 minutes, or until soggy and and wet. Yeah, I'm not really a fan of microwaveing",
+                "at 700 Watt for 10-15 minutes, or until flavourless and and rubbery. Yeah, I really dislike microwaves"
+            ],
+            "effects":[
+                "steamy",
+                "dry",
+                "chewy",
+                "regretful like my life choices"
+            ]
+        }
+    },
+    "prep_methods":{
+        "grind":{
+            "formats":[
+                "into a corse powder",
+                "into a fine powder",
+                "into a chunky paste",
+                "until we get tired in our arms"
+            ]
+        },
+        "cut":{
+            "formats":[
+                "into squares",
+                "into strips",
+                "into rounds",
+                "into triangles",
+                "into wedges",
+                "into halves"
+            ]
+        },
+        "rinse":{
+            "formats":[
+                "thouroughly",
+                "in salted water",
+                "in warm water",
+                "in cold water"
+            ]
+        },
+        "dry":{
+            "formats":[
+                "until we can feel no moisture",
+                "in our dehydrator",
+                "over open fire",
+                "with kitchen towel",
+                "with a hair-dryer",
+                "by leaving in the sun for a few hours",
+                "in the oven at around 70 degrees for around 2 - 2.5 hours"
+            ]
+        },
+        "blend":{
+            "formats":[
+                "into a uniform mass. This should not take too long, but you will have time to drink a little glas of $liquid$. Yummy!",
+                "into a smooth paste",
+                "until soupy"
+            ]
+        },
+        "chop":{
+            "formats":[
+                "into chunks",
+                "into big chuncks",
+                "into smaller chunks"
+            ]
+        },
+        "peel":{
+            "formats":[
+                "only on the north-facing side",
+                "using a spoon, as it makes it easier in the crevices",
+                "thouroughly",
+                "with long strokes away from yourself. I prefer to do it over the sink, as it makes for less cleanup",
+                "trimming only the rough parts off",
+                " and make sure to remove any spots or dirt"
+            ]
+        }
+
+    },
+    "final_methods":{
+        "mix":{
+            "formats":[
+                "We are gonna mix the {a} with the {b}",
+                "we will mix the {b} with the {a}",
+                "we are going to mix {b} with half of the {a} and then save the rest of the {a} for another rainy day"
+            ]
+        }
+    },
+    "plate_methods":{
+        "mix":{
+            "formats":[
+                "until uniform",
+                "roughly",
+                "by hand",
+                "in a large bowl",
+                "on the counter top"
+            ]
+        },
+        "blend":{
+            "formats":[
+                "into a paste",
+                "using the pulse function",
+                "into a chunky paste"
+            ]
+        },
+        "divide":{
+            "formats":[
+                "into two equally sized portions",
+                "into piles the size of a golf ball",
+                "into a small package per person"
+            ]
+        }
+    },
+
+    "adjectives": [ "Quick", "Week-night", "Grandpas'", "My original", "Super KETO", "Delicious", "The absolute best", "Worlds best", "Grandmas", "My familily recipe for", "Authentic", "Asian", "American", "European", "Italian", "Middle Eastern", "Southern" ],
+    "action_words": [ "we need to", "we", "we are gonna", "we have to", "we will"],
+    "ingredients": { 
+        "raisins":{
+            "type":"fruit",
+            "categories":["food"]
+        },
+        "butter":{
+            "type":"fat",
+            "categories":["food"]
+        },
+        "mayonnaise":{
+            "type":"liquid",
+            "categories":["food", "condiment"]
+        },
+        "ranch dressing":{
+            "type":"liquid",
+            "categories":["food", "condiment"]
+        },
+        "bacon fat":{
+            "type":"fat",
+            "categories":["food"]
+        },
+        "salsa":{
+            "type":"liquid",
+            "categories":["food", "condiment"]
+        },
+        "sour cream":{
+            "type":"liquid",
+            "categories":["food", "condiment"]
+        },
+        "guacamole":{
+            "type":"liquid",
+            "categories":["food", "condiment"]
+        },
+        "jalapenos":{
+            "type":"vegetable",
+            "categories":["food"]
+        },
+        "ketchup":{
+            "type":"liquid",
+            "categories":["food", "condiment"]
+        },
+        "mustard":{
+            "type":"liquid",
+            "categories":["food", "condiment"]
+        },
+        "cinnamon":{
+            "type":"powder",
+            "categories":["food", "spice"]
+        },
+        "rose wine":{
+            "type":"liquid",
+            "categories":["food", "alcohol", "cocktail"]
+        },
+        "white wine":{
+            "type":"liquid",
+            "categories":["food", "alcohol", "cocktail"]
+        },
+        "red wine":{
+            "type":"liquid",
+            "categories":["food", "alcohol", "cocktail"]
+        },
+        "brandy":{
+            "type":"liquid",
+            "categories":["food", "alcohol", "cocktail"]
+        },
+        "milk":{
+            "type":"liquid",
+            "categories":["food", "cocktail"]
+        },
+        "cream":{
+            "type":"liquid",
+            "categories":["food"]
+        },
+        "pineapple":{
+            "type":"fruit",
+            "categories":["food"]
+        },
+        "soy":{
+            "type":"liquid",
+            "categories":["food", "condiment"]
+        },
+        "ham":{
+            "type":"meat",
+            "categories":["food"]
+        },
+        "canned tomato":{
+            "type":"vegetable",
+            "categories":["food"]
+        },
+        "bread":{
+            "type":"sponge",
+            "categories":["food"]
+        },
+        "broccoli":{
+            "type":"vegetable",
+            "categories":["food"]
+        },
+        "rice":{
+            "type":"grain_nut",
+            "categories":["food"]
+        },
+        "noodles":{
+            "type":"firm",
+            "categories":["food"]
+        },
+        "pasta":{
+            "type":"firm",
+            "categories":["food"]
+        },
+        "eggs":{
+            "type":"gooey",
+            "categories":["food"]
+        },
+        "egg yolk":{
+            "type":"liquid",
+            "categories":["food"]
+        },
+        "popcorn":{
+            "type":"crunchy",
+            "categories":["food"]
+        },
+        "chili":{
+            "type":"vegetable",
+            "categories":["food"]
+        },
+        "coconut milk":{
+            "type":"liquid",
+            "categories":["food", "cocktail"]
+        },
+        "peanuts":{
+            "type":"grain_nut",
+            "categories":["food"]
+        },
+        "honey":{
+            "type":"gooey",
+            "categories":["food"]
+        },
+        "bacon":{
+            "type":"meat",
+            "categories":["food"]
+        },
+        "potato":{
+            "type":"vegetable",
+            "categories":["food"]
+        },
+        "tomato":{
+            "type":"vegetable",
+            "categories":["food"]
+        },
+        "lentils":{
+            "type":"vegetable",
+            "categories":["food"]
+        },
+        "apricot":{
+            "type":"fruit",
+            "categories":["food"]
+        },
+        "parmesan":{
+            "type":"cheese",
+            "categories":["food"]
+        },
+        "oil":{
+            "type":"fat",
+            "categories":["food"]
+        },
+        "salt":{
+            "type":"powder",
+            "categories":["food"]
+        },
+        "beef":{
+            "type":"meat",
+            "categories":["food"]
+        },
+        "chicken":{
+            "type":"meat",
+            "categories":["food"]
+        },
+        "turkey":{
+            "type":"meat",
+            "categories":["food"]
+        },
+        "salmon":{
+            "type":"meat",
+            "categories":["food"]
+        },
+        "pork":{
+            "type":"meat",
+            "categories":["food"]
+        },
+        "tenderloin":{
+            "type":"meat",
+            "categories":["food"]
+        },
+        "cranberries":{
+            "type":"meat",
+            "categories":["food"]
+        },
+        "beans":{
+            "type":"vegetable",
+            "categories":["food"]
+        },
+        "kale":{
+            "type":"vegetable",
+            "categories":["food"]
+        },
+        "pineapple":{
+            "type":"fruit",
+            "categories":["food"]
+        },
+        "artichoke":{
+            "type":"vegetable",
+            "categories":["food"]
+        },
+        "asparagus":{
+            "type":"vegetable",
+            "categories":["food"]
+        },
+        "avocado":{
+            "type":"fruit",
+            "categories":["food"]
+        },
+        "bamboo shoots":{
+            "type":"vegetable",
+            "categories":["food"]
+        },
+        "bean sprouts":{
+            "type":"vegetable",
+            "categories":["food"]
+        },
+        "beans":{
+            "type":"vegetable",
+            "categories":["food"]
+        },
+        "beet":{
+            "type":"vegetable",
+            "categories":["food"]
+        },
+        "bell pepper":{
+            "type":"vegetable",
+            "categories":["food"]
+        },
+        "bok choy":{
+            "type":"vegetable",
+            "categories":["food"]
+        },
+        "broccoli":{
+            "type":"vegetable",
+            "categories":["food"]
+        },
+        "brussels sprouts":{
+            "type":"vegetable",
+            "categories":["food"]
+        },
+        "cabbage":{
+            "type":"vegetable",
+            "categories":["food"]
+        },
+        "capers":{
+            "type":"vegetable",
+            "categories":["food"]
+        },
+        "carrot":{
+            "type":"vegetable",
+            "categories":["food"]
+        },
+        "cassava":{
+            "type":"vegetable",
+            "categories":["food"]
+        },
+        "cauliflower":{
+            "type":"vegetable",
+            "categories":["food"]
+        },
+        "celery":{
+            "type":"vegetable",
+            "categories":["food"]
+        },
+        "corn":{
+            "type":"vegetable",
+            "categories":["food"]
+        },
+        "cucumber":{
+            "type":"vegetable",
+            "categories":["food"]
+        },
+        "daikon radish":{
+            "type":"vegetable",
+            "categories":["food"]
+        },
+        "edamame":{
+            "type":"vegetable",
+            "categories":["food"]
+        },
+        "eggplant":{
+            "type":"vegetable",
+            "categories":["food"]
+        },
+        "garlic":{
+            "type":"vegetable",
+            "categories":["food"]
+        },
+        "ginger":{
+            "type":"vegetable",
+            "categories":["food"]
+        },
+        "green beans":{
+            "type":"vegetable",
+            "categories":["food"]
+        },
+        "spinach":{
+            "type":"vegetable",
+            "categories":["food"]
+        },
+        "horseradish":{
+            "type":"vegetable",
+            "categories":["food"]
+        },
+        "jerusalem artichoke":{
+            "type":"vegetable",
+            "categories":["food"]
+        },
+        "kale":{
+            "type":"vegetable",
+            "categories":["food"]
+        },
+        "leeks":{
+            "type":"vegetable",
+            "categories":["food"]
+        },
+        "lemongrass":{
+            "type":"vegetable",
+            "categories":["food"]
+        },
+        "lettuce":{
+            "type":"vegetable",
+            "categories":["food"]
+        },
+        "romaine":{
+            "type":"vegetable",
+            "categories":["food"]
+        },
+        "mushrooms":{
+            "type":"vegetable",
+            "categories":["food"]
+        },
+        "olive":{
+            "type":"vegetable",
+            "categories":["food"]
+        },
+        "onion":{
+            "type":"vegetable",
+            "categories":["food"]
+        },
+        "red onion":{
+            "type":"vegetable",
+            "categories":["food"]
+        },
+        "scallions":{
+            "type":"vegetable",
+            "categories":["food"]
+        },
+        "parsley":{
+            "type":"vegetable",
+            "categories":["food"]
+        },
+        "potato":{
+            "type":"vegetable",
+            "categories":["food"]
+        },
+        "pumpkin":{
+            "type":"vegetable",
+            "categories":["food"]
+        },
+        "radish":{
+            "type":"vegetable",
+            "categories":["food"]
+        },
+        "shallots":{
+            "type":"vegetable",
+            "categories":["food"]
+        },
+        "spinach":{
+            "type":"vegetable",
+            "categories":["food"]
+        },
+        "squash":{
+            "type":"vegetable",
+            "categories":["food"]
+        },
+        "sweet potato":{
+            "type":"vegetable",
+            "categories":["food"]
+        },
+        "tomato":{
+            "type":"vegetable",
+            "categories":["food"]
+        },
+        "turnip":{
+            "type":"vegetable",
+            "categories":["food"]
+        },
+        "lime":{
+            "type":"fruit",
+            "categories":["food", "cocktail"]
+        },
+        "vanilla":{
+            "type":"powder",
+            "categories":["food", "spice"]
+        },
+        "cumin":{
+            "type":"powder",
+            "categories":["food", "spice"]
+        },
+        "chili flakes":{
+            "type":"powder",
+            "categories":["food", "spice"]
+        },
+        "rosmary":{
+            "type":"powder",
+            "categories":["food", "spice"]
+        },
+        "thyme":{
+            "type":"powder",
+            "categories":["food", "spice"]
+        },
+        "parika":{
+            "type":"powder",
+            "categories":["food", "spice"]
+        },
+        "cayenne":{
+            "type":"powder",
+            "categories":["food", "spice"]
+        },
+        "garlic powder":{
+            "type":"powder",
+            "categories":["food", "spice"]
+        },
+        "oregano":{
+            "type":"powder",
+            "categories":["food", "spice"]
+        },
+        "chicken stock":{
+            "type":"liquid",
+            "categories":["food"]
+        },
+        "rum":{
+            "type":"liquid",
+            "categories":["food", "alcohol", "cocktail"]
+        },
+        "vinegar":{
+            "type":"liquid",
+            "categories":["food"]
+        },
+        "tea":{
+            "type":"liquid",
+            "categories":["food"]
+        },
+        "black coffee":{
+            "type":"liquid",
+            "categories":["food"]
+        },
+        "beer":{
+            "type":"liquid",
+            "categories":["alcohol", "food", "cocktail"]
+        },
+        "lemon juice":{
+            "type":"liquid",
+            "categories":["food", "cocktail"]
+        },
+        "maple syrup":{
+            "type":"liquid",
+            "categories":["food", "condiment"]
+        },
+        "parsley":{
+            "type":"herb",
+            "categories":["food"]
+        },
+        "rosemary":{
+            "type":"herb",
+            "categories":["food"]
+        },
+        "cilantro":{
+            "type":"herb",
+            "categories":["food"]
+        },
+        "mint":{
+            "type":"herb",
+            "categories":["food"]
+        },
+        "fresh thyme":{
+            "type":"herb",
+            "categories":["food"]
+        },
+        "coriander":{
+            "type":"herb",
+            "categories":["food"]
+        },
+        "sesame oil":{
+            "type":"fat",
+            "categories":["food, condiment"]
+        }
+        
+},
+
+    "join_words": [ "with", "with a side of", "dressed with",  "paired with", "plated with", "arranged with", "served with" ]
+}

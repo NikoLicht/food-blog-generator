@@ -1,0 +1,49 @@
+<!doctype html>
+
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+
+        <title>Generated Recipes</title>
+        <meta name="description" content="Computationally Crafted Recipes">
+        <meta name="author" content="Nikolaj Licht">
+        <link rel="stylesheet" href="{{ url_for('static', filename="css/style.css") }}">
+        <link href="https://fonts.googleapis.com/css2?family=Coming+Soon&display=swap" rel="stylesheet"> 
+    </head>
+    <body>
+        <div class="posts">
+            {% for post in posts %}
+            <div class="post">
+                <h1 class="post-title"> {{ post["title"] }} </h1>
+                <img src="{{ url_for('static', filename='images/'+post['image_string']) }}">
+                <p> {{ post["date"] }} </p>
+                <p> {{ post["cooking_time"] }} </p>
+                <p> {{ post["story"] }} </p>
+                <div class="ingredients-container">
+                    <h2 class="small-title">Ingredients:</h2>
+                    <ul>
+                        {% for ingredient in post["ingredients"] %}
+                        <li class="ingredient_container">
+                            <p class="amount">{{ ingredient["amount"] }}</p>
+                            <p class="measurement">{{ ingredient["measurement"] }}</p>
+                            <p class="ingredient">{{ ingredient["ingredient"] }}</p>
+                        </li>
+                        {% endfor %}
+                    </ul>
+                </div>
+                <div class="steps-container">
+                    <h2 class="small-title">Instructions</h2>
+                    <ol class="recipe-steps">
+                        {% for step in post["steps"] %}
+                        <li class="single-step">
+                            <p> {{step}} </p>
+                        </li>
+                        {% endfor %}
+                    </ol>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+
+    </body>
+</html>

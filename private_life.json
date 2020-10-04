@@ -1,0 +1,216 @@
+{
+    "default_data":{
+        "husband_cheated" : 0,
+        "last_disease" : "the flu",
+        "last_treatment": "pills"
+    },
+
+    "special_story": {
+        "husband_cheated":[
+            "Hey guys, I just wanted to give a quick update on my marriage (or lack thereof)... Well, since $husband$ have been very distant lately, I have looked through his phone and other online accounts, and found that he has cheated on me quite a few times. Despite having perviously talked about it, he just keeps doing it. It is almost kinda impressive. Anyway, I have had enough. I don't want to go into detail of how I caught him doing the dirty deeds with $lady$, let's just say that we were all surprised. I am divorcing $husband$. Fittingly, todays recipe is $title$ which $husband$ absolutly hates, just as i hate him.",
+            "Hi there, I just need to vent about my marriage today. No updates on my kids... Well, yesterday evening, when i was getting home from work, I found $husband$ naked in the living room with $lady$, looking all exhausted. $husband$ and $lady$ confess that it is far from the first time, and that they are secretly in love. Well now we are both looking into a divorce. I can't wait to get him out of the house. $lady$ seems nice though. Ill try to defer my mind with todays recipe $title$.",
+            "OMG, I WILL FILE FOR DIVORSE! I know it looks like click-bait, but really I WILL. I just found out that every time $husband$ has claimed to be at the friday bar, he has secretly been cheating on me with $lady$! Im totally heartbroken. Only $title$ will get my mood up again.",
+            "There I was, shopping for todays recipe, when I see $husband$ kissing with $lady$ just in the organic isle. They both seemed surprised, as if they don't know i always prefer organic! Anywho, I found out he, my pice-of-shit husband has been cheating on me with $lady$. Now im just waiting for the divorce papers to go though. Luckily I know that $husband$ hates $cooked_main$ and I will make sure he really can taste it tonight in $title$.",
+            "Well, what a f*uckin day, $lady$ just called me and told me that she had been seeing my $husband$ privatley, naked, in her bed many times lately. That is just too much. I am filing for a divorce tomorrow! If your husband is ever claiming to have just been 'on a fishing trip' it is really just a cover for banging $lady$ on the side. Luckily, you are following my blog where good recipes makes you in a better mood. Todays mood-altering recipe is $title$."
+        ]
+    },
+        
+    "intro" : [
+        "%husband_cheated% This is just such a lovely dishsingle-, for the effort you put in, you sure get a lot out!",
+        "%husband_cheated% I just really love this recipe! single-It really is one of my $dish_description$.",
+        "%husband_cheated% This recipe will really surprise you! $family_member$ is always surprised at how good it is!",
+        "%husband_cheated% If you are gonna cook anything this holiday it really should be this!",
+        "%husband_cheated% You will never guess the secret ingredient.. it's hate!",
+        "%husband_cheated% If you cook anything with love, it should be $title$!",
+        "%husband_cheated% This litterally is the best dish at our bi-yearly get together community BBQ!",
+        "%husband_cheated% Are you planning on bringing cake at work? Don't, this dish will really get people talking!",
+        "%husband_cheated% Frustrated at your deadbeat husband? I sure am. But I let my frustrations out on this delicious dish! DISHLICIOUS!",
+        "%husband_cheated% Considering filing for divorce? Cook this and consider it over a good portion of $title$! It's worth it (both).",
+        "%husband_cheated% Angry at your fridge? Fill it up with leftovers of $title$! There will be a lot, believe me.",
+        "%husband_cheated% Having guests over whom you secretly don't like? Cook them $title$ and you will never have that problem again.",
+        "%husband_cheated% Tired of not having sporadic diarrhea? You should totally cook $title$!",
+        "%husband_cheated% Do not let me tell you twice! You are a bitch if you don't make a batch of $title$ right now!",
+        "%husband_cheated% This dish is so good that I once lived off of it for 12 days straight until I went to a hospital!",
+        "%husband_cheated% Just looking at this dish will get your mouth watery, then a bit swollen and then itchy. But it is well worth it as $son$ always says!",
+        "%husband_cheated% Looking to add a bit of excitement to the table? Try this deeeelish recipe!",
+        "%husband_cheated% Considering giving 'cooking your own food' a try? Start with $title$ for a simple and approachable recipe!",
+        "%husband_cheated% If i could eat this for a whole day, I would be happy! Then a little bit sad, and then straight out depressed.",
+        "%husband_cheated% As a (soon to be single) mom, I like to spoil my kids and this recipe is perfect for that occation!",
+        "%husband_cheated% Looking for a dish that is P-E-R-F-E-C-T for every occation? Look no further!",
+        "%husband_cheated% Impressing your friends have never ever been easier! Just grab a spoon and get ready!",
+        "%husband_cheated% Feeling like labourious work could be nice? Try cooking this!",
+        "%husband_cheated% I just really love $cooked_main$, especially during this lovely season.",
+        "%husband_cheated% This dish really split the waters at home (like so many other things... sigh), some really like $cooked_main$ and others hate it.",
+        "%husband_cheated% Normally I would avoid you if you served me $cooked_main$, maybe I'd even burn your house down, but in this particular dish it works SO well!",
+        "%husband_cheated% Yes, we all know that $cooked_main$ is a childhood favourite, so to please both $son$ and $daughter$ i've incorporated $cooked_main$ into a dish.",
+        "%husband_cheated% Faking that you know you way around the kitchen? This dish is here to save your butt!",
+        "%husband_cheated% Invited over 8 house-guests and need to fill their tummies? $title$ is my go-to tummy filler!",
+        "%husband_cheated% Having a dinner with your husband ($husband$) and $lady$ to figure out if anything is going on between them? This recipe is the perfect interrogator side!",
+        "%husband_cheated% Drinking in the daytime with you suburban mom friends? This is the perfect Pinot Noir accompaniment!",
+        "%husband_cheated% Craving something that is salty, but not too salty?  Then this is just perfect!",
+        "%husband_cheated% $husband$ is highly allergic to $cooked_main$, so I cook it occationally when i think he has beein seeing $lady$ again.",
+        "%husband_cheated% Whenever I consider a divorce, I think about which recipes will make my kids favour time with me and not $husband$. What always comes to mind is $title$!",
+        "%husband_cheated% This is litterally one of my best recipes!",
+        "%husband_cheated% You have not lived before you have eaten $title$!",
+        "%husband_cheated% Need to spice up you sex-life? Whenever I have $cooked_main$ in any format, my libido goes through the roof! I often hand over $son$ and $daughter$ to my mother",
+        "%husband_cheated% If you are looking for a recipe that is just perfect for befriending colleagues at your new job, this is perfect!",
+        "%husband_cheated% $son$ and $daughter$ are both highly allergic to $cooked_main$, but at times, I have cravings for $cooked_main$ and cook it anyway. It really is that good!",
+        "%husband_cheated% $husband$ tells me that $lady$ cooks delicious $cooked_main$, but I am convinced that my version of $cooked_main$, is better, more moist and juicy, experienced and without STD's!",
+        "%husband_cheated% You have probably had $random_dish$ by now, as it is one of my best recipes, this one is a variant of that. Which of these are best, really depends on who you ask. $son$ perfers this one to the original",
+        "%husband_cheated% While $random_dish$ may be one of my $dish_description$, nothing beats $title$ after coming home from a stressed day at work!"
+    ],
+
+    "dish_description": [
+        "favourite dishes",
+        "secret pleasures",
+        "fav dishes",
+        "recurring cookery",
+        "better recepies",
+        "weekly desires",
+        "daily cravings",
+        "weeknight favourite",
+        "weekend favourite",
+        "oft cooked gametime dishes",
+        "husbands' favourites",
+        "familiy's favourites"
+    ],
+
+    "family_text" : [
+        "$family_member$ really loves this recipe, and will request i cook it at least three times a week.",
+        "$son$ and $daughter$ can never really agree on anything, except that $title$ is good. $title$ can really get them to shut the cr*p up when mommy needs some time to think.",
+        "Sometimes I will just grab the hands of my family, with $one_child$ in the one hand and $husband$ in the other hand, we sit around the table and find inner peace before eating $title$.",
+        "$family_member$ has asked me to write down the recipe, so $family_member$ can share it with friends.",
+        "When we are out shopping you can be sure that either $son$ or $daughter$ tries to add a few of the ingredients to the basket.",
+        "I actually don't like it myself all that much, but $family_member$ has been nagging me to put it online.",
+        "$family_member$ really hates this recipe, but i cook it for me, not for $family_member$.",
+        "This recipe was actually passed down in my family for generations. $daughter$ have already been requesting that I pass it onto her, when she is of age.",
+        "After I've had a really shitty day, $title$ can always cheer me up. There is just something really soothing and comforting about it.",
+        "I really swear, '$title$' were some of the first words $daughter$ every said. We used to get it that much. But it also is really delicious.",
+        "$husband$ really likes this this recipe after $husband_act$.",
+        "$husband$ especially likes this dish of mine (ours) after $husband_act$.",
+        "My shitshow of a husband is not really that likable, but when he yells at me to cook $title$, my heart just warms up a few degrees again.",
+        "Hide your kids at their grandparents and enjoy this romantic dinner with your husband. I know ill enjoy $title$ with $husband$ after he has been $husband_act$.",
+        "$husband$ always craves this dish after doing a long day of good work... Haha yeah right. I KNOW THAT HE IS SECRETLY $husband_act$ ... DAMN its getting on my nerves. Ill go have a glass of his wine.",
+        "Don't tell my kids, but i always cook this after having sex. I just really get urges, for well sex, and $title$. Ill enjoy both with or without $husband$ who is currently $husband_act$.",
+        "$family_member$ really dislikes this dish, but sometimes I just cook it in spite. I am the mother afterall."
+
+    ],
+
+    "husband_act":[
+        "working late ...again. I really don't know why i put up with $husband$. I mean, i like that he provides an income, but... I kinda wished that he would put in more effort at home.",
+        "grilling a big steak, like a real man.",
+        "drinking beer with his buddies.. again. He has been doing this a lot lately.",
+        "mowing the lawn, like a real man.",
+        "doing the taxes. All those numbers really do confuse me.",
+        "having struggled a bit with some depression.",
+        "applying for jobs. Yeah, he is unimployed, but still being kinda picky about where to work. It has really put a strain on us, when he got laid off.",
+        "spending the day at church.",
+        "golfing with his boss.",
+        "being fired a few employees at work. This magical dish really helps on $husband$'s temper.",
+        "being promoted at work, as nothing spells C-E-L-E-B-R-A-T-I-O-N as a portion of $title$.",
+        "being demoted at work.",
+        "shopping new fishing gear. The good old hook and bait as he calls it.",
+        "spending a few hours at the local pub.",
+        "watching pornographic material on his laptop. YES $husband$ I found your favourites folder in your browser! AND NOW ALL MY FOLLOWERS KNOW!!!",
+        "cheating on me with $lady$ at his work! I know we can get through this. It's just hard you know, with the kids.. and well... it is not exactly a first.",
+        "reading through our prenup again. I'm just so happy that i got a husband who is in control of things.",
+        "redoing our mortage.",
+        "texting with $lady$. For some reason this dish can always avert a spicy (haha) situation.",
+        "having eaten a few portions of $random_dish$.",
+        "having dinner (romantic? i don't wanna know) with $lady$.",
+        "coming home from a work-trip, where he sadly had to share a room with $lady$ at our local motel!?  WTF!",
+        "giving my secret family recipe (coming soon!) to $lady$ whom I have a suspicion that he is seeing on the side! %husband_cheated%",
+        "netflixing (and chilling??!) with $lady$."
+    ],
+
+    "ending": [
+        "Anyway, onto the recipe!",
+        "That should be enough aboout my private life for this post! Thus, I present to you the recipe:",
+        "Moving on to the recipe:",
+        "Sounds delicious right? Here is the recipe:",
+        "Super yummy!",
+        "Let's get started!",
+        "We should get on with it, after a little glass of wine!",
+        "If you have had a sip of redwine, you are ready for the recipe."
+    ],
+
+    "family":{
+        "husband": {
+            "name": "Curt"
+        },
+        "daughter": {
+            "name": "Nanna"
+        },
+        "son": {
+            "name": "Jason"
+        } ,
+        "mother in law": {
+            "name" : "Yvette"
+        },
+        "golden retriever": {
+            "name" : "Charlie"
+        }
+    },
+
+    "ladies": [
+        "Connie from HR",
+        "the bi-weekly maid",
+        "the local flowerist, Jenny,",
+        "Cassie from accounting",
+        "Cassandra the barmaid",
+        "Lydia, $husband$'s bitchy ex, ",
+        "Susan, my best friend,",
+        "Lara from the reception",
+        "Alex $husbands$ colleague",
+        "Pertulia, our neighbour's wife",
+        "Perina, our neibours daugter",
+        "$son$'s teacher",
+        "$daughter$'s teacher",
+        "his highschool crush",
+        "Juniper, his oh-so-sweet dentist",
+        "Ashley, his old roommate",
+        "Millie, his old 'just-a-friend' from overseas",
+        "Chanique the new intern at $husband$s firm",
+        "Diamond, $husband$s favourite stripper"
+    ],
+
+    "son_act":[
+        "No post is complete without an update on $son$s declining health. $son$ have just been diagnosed with $disease$ which has been completely heartbreaking for us all.",
+        "My son sadly still has $last_disase$ despite having gotten $last_aid$. If you want to support us, or him, you can like and share my posts or donate on our paypal.",
+        "I just took $son$ to the doctor again, just to confirm that he indeed still has $last_disase$. This time, the doctor provided us with $random_aid$"
+    ],
+
+    "diagnoses":[
+        "a broken arm",
+        "stubbed toe",
+        "gluten-allergy",
+        "diabetes",
+        "measels",
+        "split-personality-disorder",
+        "fever",
+        "egyptian parakite flu",
+        "italian pasta arm disease",
+        "french baguette legs syndrome",
+        "a rash",
+        "peanut allergy",
+        "covid-19",
+        "constant smell of sweat",
+        "onion breath",
+        "FOMO",
+        "prosopagnosia",
+        "imposter syndrome"
+    ],
+
+    "aids":[
+        "pills, which he is to dissolve in water.",
+        "pills, which he is to insert in his behiney.",
+        "pills, which must be chewn.",
+        "crystals that he is to sleep with.",
+        "crystals that he must rub on his arms.",
+        "some crystals that he must place on his face.",
+        "vaccine, that only have some mild side effects.",
+        "a good pamphlet on the subject.",
+        "a few intersting toys that can distract him from the pain."
+    ]
+
+}
